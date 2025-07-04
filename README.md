@@ -1,7 +1,7 @@
 #📄 TXT Parser
 An intuitive, standalone application built with Python and Tkinter to parse structured .txt files into clean, validated datasets. Designed to accommodate scientific notation, custom delimiters, and nested folder structures—this tool simplifies data extraction while ensuring accuracy and user control.
 
-##🚀 Features
+## 🚀 Features
 - Multi-file support: Handles batch parsing across nested folders or ZIP archives.
 - Field validation: Detects missing or malformed fields, including support for mandatory fields.
 - Scientific notation handling: Automatically converts and formats numerical fields.
